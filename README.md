@@ -15,6 +15,7 @@
   - Maxcut, Vertex Cover, Clique, maximum independent set, graph coloring
   - QAOA
   - Simulated annealing and Tabu search
+  - Metaheuristic methods
   - Ising Model
 - Quantum Machine Learning
   - Quantum Linear Algebra subroutine for machine learning
